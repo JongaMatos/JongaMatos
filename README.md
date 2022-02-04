@@ -1,4 +1,4 @@
-# Hi there, i'm João Gabriel 👋
+# Hi there, i'm João 👋
 
 <!--
 **JongaMatos/JongaMatos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -39,7 +39,7 @@
 
 <div id="stats" />
 
-## My Stats
+## 📈&nbsp;My Stats
 
 <a  href="#stats">
   <p>
