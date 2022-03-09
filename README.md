@@ -2,7 +2,7 @@
 
 <a href='#'>
     <div align='center'>
-        <img src='./header.svg' />
+        <img src='./logo.svg' />
         <img src='./waves.svg' />
     </div>
 </a>
