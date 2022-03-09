@@ -1,3 +1,13 @@
+
+<div align='center'>
+    <a href='#'>
+        <img src='./assets/header.svg' />
+        <img src='./assets/waves.svg' />
+    </a>
+</div>
+
+<br/>
+
 # Hi there, i'm João 👋
 
 <!--
