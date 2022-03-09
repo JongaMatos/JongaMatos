@@ -1,10 +1,10 @@
 
-<div align='center'>
-    <a href='#'>
+<a href='#'>
+    <div align='center'>
         <img src='./header.svg' />
         <img src='./waves.svg' />
-    </a>
-</div>
+    </div>
+</a>
 
 <br/>
 
