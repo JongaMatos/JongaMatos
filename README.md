@@ -9,7 +9,7 @@
 
 <br/>
 
-# Hi there, i'm João 👋
+# Hi there 👋
 
 <!--
 **JongaMatos/JongaMatos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
