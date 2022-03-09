@@ -1,8 +1,8 @@
 
 <div align='center'>
     <a href='#'>
-        <img src='./assets/header.svg' />
-        <img src='./assets/waves.svg' />
+        <img src='./header.svg' />
+        <img src='./waves.svg' />
     </a>
 </div>
 
