@@ -2,6 +2,7 @@
 
 <a href='#'>
     <div align='center'>
+        <img src='./waves-reverse.svg' />
         <img src='./logo.svg' />
         <img src='./waves.svg' />
     </div>
