@@ -2,11 +2,14 @@
 
 <a href='#'>
     <div align='center'>
-        <img src='./waves-reverse.svg' />
+        <!-- <img src='./waves-reverse.svg' />
         <img src='./logo.svg' />
-        <img src='./waves.svg' />
+        <img src='./waves.svg' /> -->
+        <img src='./header.svg' />
     </div>
 </a>
+
+
 
 <br/>
 
