@@ -55,13 +55,13 @@
 <div id="stats" />
 
 ## 📈&nbsp;My Stats
+<div align="center">
+<a href="#stats">
+      <img  height="165rem" src="https://github-readme-stats.vercel.app/api?username=jongamatos&show_icons=true&rank_icon=github&theme=radical&include_all_commits=true&count_private=true&hide=stars"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jongamatos&layout=compact&langs_count=10&theme=radical&hide=shell&card_width=445"/>
+ </a>
+</div>
 
-<a  href="#stats">
-  <p>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JongaMatos&show_icons=true&theme=radical&include_all_commits=true&count_private=true"  />
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JongaMatos&theme=radical&layout=compact" >
-  </p>
-</a>
 
 
 
