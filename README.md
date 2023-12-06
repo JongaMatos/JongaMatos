@@ -57,8 +57,8 @@
 ## 📈&nbsp;My Stats
 <div align="center">
 <a href="#stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=jongamatos&show_icons=true&rank_icon=github&theme=radical&include_all_commits=true&count_private=true&hide=stars"/>
-    <img height="170rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jongamatos&layout=compact&langs_count=10&theme=radical&hide=shell"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=jongamatos&show_icons=true&rank_icon=github&theme=dracula&count_private=true&hide=stars"/>
+    <img height="170rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jongamatos&layout=compact&langs_count=10&theme=dracula&hide=shell"/>
  </a>
 </div>
 
