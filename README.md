@@ -20,7 +20,6 @@
 
 # 💻 &nbsp;About Me
 
-- ⌨️ Working at [Orcestra Gamificação](https://www.orcestra.com.br/?gclid=Cj0KCQiAuvOPBhDXARIsAKzLQ8FZ6yrNS2p5QMwaunPPxGRHNNjD5qkm4QK8qsRtGYqIvZnV3yy37sMaAj_tEALw_wcB)
 - 🎓 Studying Software Engineering at Universidade de Brasília.
 - 🌱 I’m currently learning more about ReactJs.
 - 🎯 Future Goals: Getting a full-time job as a Software Developer.
