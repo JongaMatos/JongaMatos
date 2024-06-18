@@ -21,7 +21,7 @@
 # 💻 &nbsp;About Me
 
 - 🎓 Studying Software Engineering at Universidade de Brasília.
-- 🌱 I’m currently learning more about ReactJs.
+- 🌱 I’m currently learning more about VueJs.
 - 🎯 Future Goals: Getting a full-time job as a Software Developer.
 
 ## 🛠&nbsp;Tech Stack
